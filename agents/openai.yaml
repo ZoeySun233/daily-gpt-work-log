@@ -1,0 +1,4 @@
+interface:
+  display_name: "Daily GPT Work Log"
+  short_description: "Create visual, evidence-based work logs in local time"
+  default_prompt: "Use $daily-gpt-work-log to create today’s evidence-based work log."
