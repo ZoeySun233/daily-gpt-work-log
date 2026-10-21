@@ -1,4 +1,3 @@
-# daily-gpt-work-log
 # Daily GPT Work Log
 
 一个面向 Codex / ChatGPT 工作记录的个人 Skill。它能够根据可访问的聊天、任务、文件和导出数据，生成基于证据、带可视化摘要的日报、周报和月报。
